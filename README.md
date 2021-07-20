@@ -35,7 +35,7 @@
 | [EfficientNet-X: Searching for Fast Model Families on Datacenter Accelerators](https://arxiv.org/pdf/2102.05610v1.pdf)|||
 | [TResNet: High Performance GPU-Dedicated Architecture](https://arxiv.org/pdf/2003.13630.pdf)||[GitHub](https://arxiv.org/pdf/2003.13630.pdf)|
 | [NFNet: High-Performance Large-Scale Image Recognition Without Normalization](https://arxiv.org/pdf/2102.06171v1.pdf)| |[GitHub](https://github.com/deepmind/deepmind-research/tree/master/nfnets)|
-| [LambdaNetworks: Modeling long-range Interactions without Attention](LambdaNetworks: Modeling long-range Interactions without Attention)|ICLR2021|[GitHub](https://github.com/d-li14/lambda.pytorch)|
+| [LambdaNetworks: Modeling long-range Interactions without Attention](https://arxiv.org/pdf/2102.08602v1.pdf)|ICLR2021|[GitHub](https://github.com/d-li14/lambda.pytorch)|
 | [BotNet:  Bottleneck transformers for visual recognition](https://arxiv.org/pdf/2101.11605v1.pdf)|CVPR2021|[GitHub](https://github.com/leaderj1001/BottleneckTransformers)|
 | [Big transfer (bit): General visual representation learning](https://arxiv.org/pdf/1912.11370v3.pdf)||[GitHub](https://github.com/google-research/big_transfer)|
 | [Fast and Accurate Model Scaling](https://arxiv.org/pdf/2103.06877v1.pdf)|CVPR2021|[GitHub](https://github.com/facebookresearch/pycls)|
