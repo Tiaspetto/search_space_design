@@ -22,9 +22,9 @@
 | [Zero-Cost Proxies for Lightweight NAS](https://openreview.net/pdf?id=0cmMMy8J5q) | ICLR | |
 | [Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective](https://openreview.net/forum?id=Cnon5ezMHtu) | ICLR  | [GitHub](https://github.com/VITA-Group/TENAS) |
 |[Zero-Cost Proxies Meet Differentiable Architecture Search](https://arxiv.org/pdf/2106.06799v1.pdf)|||
-|[On the Number of Linear Regions of Convolutional Neural Networks](https://arxiv.org/pdf/2006.00978.pdf)|PMLR2020|[GitHub](https://github.com/huangleiBuaa/LRCount-CNN)|
+|[On the Number of Linear Regions of Convolutional Neural Networks](https://arxiv.org/pdf/2006.00978.pdf)| PMLR2020| [GitHub](https://github.com/huangleiBuaa/LRCount-CNN)|
 |[On the Number of Linear Regions of Deep Neural Networks](https://arxiv.org/pdf/1402.1869.pdf)]|||
-|[NTK: Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent](https://arxiv.org/pdf/1902.06720v4.pdf)|
+|[NTK: Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent](https://arxiv.org/pdf/1902.06720v4.pdf)|||
 
 ## SOTA Network Structures
 | Title | Venue | Code |
