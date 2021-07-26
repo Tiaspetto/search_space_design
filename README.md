@@ -12,8 +12,14 @@
 | [NDS: On Network Design Spaces for Visual Recognition](https://arxiv.org/pdf/1905.13214v1.pdf)|ICCV 2019| [GitHub](https://github.com/facebookresearch/nds)|
 | [NAS-Bench-Macro: Prioritized Architecture Sampling with Monto-Carlo Tree Search](https://arxiv.org/abs/2103.11922)|CVPR2021|[GitHub](https://github.com/xiusu/NAS-Bench-Macro)|
 |[Evolving Search Space for Neural Architecture Search](https://arxiv.org/pdf/2011.10904.pdf)|||
-| [Designing Network Design Spaces](https://arxiv.org/pdf/2003.13678.pdf) | CVPR  | [GitHub](https://github.com/facebookresearch/pycls) |
 | [Densely Connected Search Space for More Flexible Neural Architecture Search](https://arxiv.org/abs/1906.09607) | CVPR | [Github](https://github.com/JaminFong/DenseNAS) |
+
+## Network Transformation and Scaling
+| Title | Venue | Code |
+|:--------|:--------:|:--------:|
+| [Designing Network Design Spaces](https://arxiv.org/pdf/2003.13678.pdf) | CVPR  | [GitHub](https://github.com/facebookresearch/pycls) |
+| [HANT: Hardware-Aware Network Transformation](https://arxiv.org/pdf/2107.10624v1.pdf) | CVPR2021  | |
+
 
 ## NAS without training
 | Title | Venue | Code |
