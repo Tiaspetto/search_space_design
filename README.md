@@ -45,7 +45,7 @@
 | [BotNet:  Bottleneck transformers for visual recognition](https://arxiv.org/pdf/2101.11605v1.pdf)|CVPR2021|[GitHub](https://github.com/leaderj1001/BottleneckTransformers)|
 | [Big transfer (bit): General visual representation learning](https://arxiv.org/pdf/1912.11370v3.pdf)||[GitHub](https://github.com/google-research/big_transfer)|
 | [Fast and Accurate Model Scaling](https://arxiv.org/pdf/2103.06877v1.pdf)|CVPR2021|[GitHub](https://github.com/facebookresearch/pycls)|
-｜[Searching for MobileNetV3](https://arxiv.org/pdf/1905.02244v5.pdf)｜|[]|
+｜[Searching for MobileNetV3](https://arxiv.org/pdf/1905.02244v5.pdf)｜||
 ## SOTA Vision Transformer
 | Title | Venue | Code |
 |:--------|:--------:|:--------:|
