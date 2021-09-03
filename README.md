@@ -13,7 +13,7 @@
 | [NAS-Bench-Macro: Prioritized Architecture Sampling with Monto-Carlo Tree Search](https://arxiv.org/abs/2103.11922)|CVPR2021|[GitHub](https://github.com/xiusu/NAS-Bench-Macro)|
 |[Evolving Search Space for Neural Architecture Search](https://arxiv.org/pdf/2011.10904.pdf)|||
 | [Densely Connected Search Space for More Flexible Neural Architecture Search](https://arxiv.org/abs/1906.09607) | CVPR | [Github](https://github.com/JaminFong/DenseNAS) |
-
+|[AutoSpace: Neural Architecture Search with Less Human Interference](https://arxiv.org/abs/2103.11833)|||
 ## Network Transformation and Scaling
 | Title | Venue | Code |
 |:--------|:--------:|:--------:|
@@ -52,6 +52,8 @@
 | [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)|ICLR2021|[GitHub](https://github.com/gupta-abhay/ViT)|
 | [Training data-efficient image transformers& distillation through attention](https://arxiv.org/pdf/2012.12877.pdf)||[GitHub](https://github.com/facebookresearch/deit)|
 | [Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet](https://arxiv.org/pdf/2101.11986v2.pdf)|CVPR2021|[GitHub](https://github.com/yitu-opensource/T2T-ViT)|
+|[AutoFormer: Searching Transformers for Visual Recognition](https://arxiv.org/abs/2107.00651)|||
+|[Mobile-Former: Bridging MobileNet and Transformer](https://arxiv.org/abs/2108.05895)|||
 
 
 
