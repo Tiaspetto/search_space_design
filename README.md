@@ -14,6 +14,7 @@
 |[Evolving Search Space for Neural Architecture Search](https://arxiv.org/pdf/2011.10904.pdf)|||
 | [Densely Connected Search Space for More Flexible Neural Architecture Search](https://arxiv.org/abs/1906.09607) | CVPR | [Github](https://github.com/JaminFong/DenseNAS) |
 |[AutoSpace: Neural Architecture Search with Less Human Interference](https://arxiv.org/abs/2103.11833)|||
+|[Accelerating Evolutionary Neural Architecture Search via Multi-Fidelity Evaluation](https://arxiv.org/abs/2108.04541)|||
 ## Network Transformation and Scaling
 | Title | Venue | Code |
 |:--------|:--------:|:--------:|
